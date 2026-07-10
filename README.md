@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="cleanup" src="https://github.com/user-attachments/assets/a07e53f7-7060-49e9-8084-719eed6c8617" />
+
+
 # Debian/Ubuntu Full System Cleanup Script
 
 This script provides a comprehensive cleanup solution for Debian and Ubuntu-based systems. It automates various tasks to free up disk space, remove unnecessary files, and optimize your system's performance.
